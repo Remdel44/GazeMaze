@@ -1,9 +1,10 @@
 https://docs.pupil-labs.com/core/developer/network-api/
 
+#Python API
 https://github.com/pupil-labs/pl-realtime-api
 
+#?
 https://github.com/pupil-labs/realtime-network-api
 
+#Unity?
 https://github.com/pupil-labs/hmd-eyes?tab=readme-ov-file
-
-https://github.com/pupil-labs/pl-realtime-api/blob/main/README.md
