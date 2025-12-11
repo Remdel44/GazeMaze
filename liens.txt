@@ -8,3 +8,5 @@ https://github.com/pupil-labs/realtime-network-api
 
 #Unity?
 https://github.com/pupil-labs/hmd-eyes?tab=readme-ov-file
+
+https://dl.acm.org/doi/10.1145/3197517.3201294
